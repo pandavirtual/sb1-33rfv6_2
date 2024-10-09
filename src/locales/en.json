@@ -1,0 +1,27 @@
+{
+  "appName": "Murder Mystery Scheduler",
+  "home": {
+    "welcome": "Welcome to Murder Mystery Event Scheduler",
+    "description": "Plan and organize thrilling murder mystery events with friends!",
+    "features": {
+      "scheduleEvents": "Schedule Events",
+      "scheduleEventsDesc": "Create and manage exciting murder mystery events.",
+      "inviteFriends": "Invite Friends",
+      "inviteFriendsDesc": "Easily invite and manage participants for your events.",
+      "exploreScenarios": "Explore Scenarios",
+      "exploreScenariosDesc": "Choose from a variety of intriguing murder mystery scenarios."
+    },
+    "createEvent": "Create New Event",
+    "login": "Login to Get Started"
+  },
+  "login": {
+    "title": "Sign In to Murder Mystery Scheduler",
+    "description": "Use your Google account to sign in and start planning your murder mystery events!",
+    "googleButton": "Sign in with Google"
+  },
+  "header": {
+    "events": "Events",
+    "profile": "Profile",
+    "logout": "Logout"
+  }
+}

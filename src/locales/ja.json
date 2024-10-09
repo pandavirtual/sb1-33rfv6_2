@@ -1,0 +1,27 @@
+{
+  "appName": "マーダーミステリースケジューラー",
+  "home": {
+    "welcome": "マーダーミステリーイベントスケジューラーへようこそ",
+    "description": "友達とスリリングなマーダーミステリーイベントを計画し、開催しましょう！",
+    "features": {
+      "scheduleEvents": "イベントをスケジュール",
+      "scheduleEventsDesc": "エキサイティングなマーダーミステリーイベントを作成・管理します。",
+      "inviteFriends": "友達を招待",
+      "inviteFriendsDesc": "イベントの参加者を簡単に招待・管理できます。",
+      "exploreScenarios": "シナリオを探索",
+      "exploreScenariosDesc": "様々な興味深いマーダーミステリーシナリオから選択できます。"
+    },
+    "createEvent": "新しいイベントを作成",
+    "login": "ログインして始める"
+  },
+  "login": {
+    "title": "マーダーミステリースケジューラーにサインイン",
+    "description": "Googleアカウントを使用してサインインし、マーダーミステリーイベントの計画を始めましょう！",
+    "googleButton": "Googleでサインイン"
+  },
+  "header": {
+    "events": "イベント",
+    "profile": "プロフィール",
+    "logout": "ログアウト"
+  }
+}
